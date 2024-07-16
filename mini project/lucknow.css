@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+    height: 50px;
+    background-color: #e6daf2;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.color {
+    background-color:#e6daf2;
+    border: none;
+}
+.admision {
+    color: #ff0000;
+}
+
+.navbar1 {
+    height: 100px;
+    background-color: aqua;
+
+}
+.nav {
+     display: flex; 
+     justify-content: space-evenly;
+     align-items: center;
+
+}
+.icon {
+    font-size: 1.7rem;
+    padding-left: 100px;
+}
+.university {
+    color: #fff000;
+    font-size: 1.7rem;
+    font-weight:100px ;
+}
+.logo2 {
+    padding-top: 15px;
+    display: flex;
+}
+.flex {
+    
+}
+
+.navbar2{
+    height: 80px;
+    background-color: rgb(20, 4, 251);
+    color: #e6daf2;
+    border: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.border {
+    background-color: rgb(20, 4, 251);
+    border: none;
+    font-size: 0.9rem;
+    color: #e6daf2;
+    margin-top: 5px;    
+}
+.border1 {
+    border: 2px solid transparent;
+}
+.border1 :hover {
+    border: 2px solid white;
+    background-color: hsl(60, 100%, 50%);
+    margin-bottom: 25px;
+}
+
+/* .0box1 { */
+    /* height: 600px; */
+    width: 400px;
+    /* background-color: #ff0000; */
+}
+/* .box2 { */
+    /* height: 600px; */
+    /* width: 400px; */
+    /* background-color: #2600ff; */
+
+}
+/* .box3 { */
+    /* height: 600px; */
+    /* width: 400px; */
+    /* background-color: #00ff33; */
+}

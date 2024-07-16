@@ -1,0 +1,106 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main-container {
+    background-color: rgb(200, 113, 193);
+    display: flex;
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container {
+    height: 80vmin;
+    width: 100vmin;
+    background-color: rgb(34, 255, 0);
+    padding: 40px;
+    box-shadow: 10cap;
+    border: 2px solid rgb(13, 15, 9);
+    border-radius: 100px;
+}
+.heading {
+    text-align: center;
+    font-size: 4rem;
+    color: red;
+}
+.form {
+    padding-top: 25px;
+}
+
+#name {
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    
+}
+#user {
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    /* padding-left: 35px; */
+    margin-left: 30px;
+}
+#email {
+    height: 30px;
+    width: 250px;
+    margin-left: 25px;
+    border-radius: 5px;
+    border: none;
+}
+#phone {
+    height: 30px;
+    width: 250px;
+    margin-left: 18px;
+    border-radius: 5px;
+    border: none;
+}
+#password {
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+#radio {
+    margin-top: 30px;
+    cursor: pointer;
+
+}
+.text {
+    margin-top: 40px;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+.register {
+    margin-top: 70px;
+    height: 40px;
+    width: 700px;
+    background-color: rgb(95, 9, 73);
+    border-radius: 10px;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+   
+    
+}
+
+.error {
+    color: red;
+    margin-top: 0px;
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    /* background-color: #fffc4f; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.height {
+    font-size: 5rem;
+    color: rgb(230, 11, 11);
+}
+
+.hide {
+    display: ;
+}
+
+
+    
+
+.conatiner {
+    
+}
+p {
+    font-size: 6rem;
+    color:red
+}
